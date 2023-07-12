@@ -13,7 +13,7 @@ ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb4;
 COMMENT = '도서 목록';
 
--- 연습 문제
+-- 연습 문제1
 -- 아래의 필드명을 담은 memberlist 테이블을 생성하시오
 -- 필드명 : membernum(int, 자동 증가, not null 기본키), name(varchar(30),not null),
 --          phone( varchar(30), not null) Birth(date, not null),bpoint(int),
